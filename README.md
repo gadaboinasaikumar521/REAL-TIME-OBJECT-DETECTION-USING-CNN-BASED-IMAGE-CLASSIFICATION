@@ -1,1 +1,5 @@
 # REAL-TIME-OBJECT-DETECTION-USING-CNN-BASED-IMAGE-CLASSIFICATION
+
+In the modern era of Artificial Intelligence (AI) and Machine Learning (ML), object detection plays a crucial role in enabling machines to visually understand and interact with their environment. This project, "Real-Time Object Detection Using CNN-Based Image Classification," focuses on detecting and classifying objects in real-time using the powerful capabilities of Convolutional Neural Networks (CNNs).
+
+CNNs are a class of deep learning models designed specifically for image-related tasks. They have revolutionized the field of computer vision by learning spatial hierarchies of features through multiple layers. In this project, a CNN model is trained to recognize and classify different objects present in an image or video stream captured via a camera in real-time.
